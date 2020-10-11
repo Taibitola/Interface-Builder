@@ -791,7 +791,7 @@
                         </constraints>
                     </view>
                     <connections>
-                        <outlet property="label" destination="Sev-ks-u4u" id="AY0-BO-8d7"/>
+                        <outlet property="label" destination="Asd-uK-XSo" id="lIu-pR-F6J"/>
                         <outlet property="textField" destination="si5-9H-An0" id="WVF-La-fd7"/>
                     </connections>
                 </viewController>
